@@ -1,0 +1,25 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1376272998000 410 d46c9b46578f3c5ba110568277ded38d69d159ed /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/R$drawable.class
+1376272998000 2242 019ceaa95f2c20bcacbe6982e4231a840b4e099c /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/util/SystemUiHiderHoneycomb.class
+1376272998000 693 473471da618902a96c471af4e153a72451e63180 /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/R.class
+1376272998000 403 585921f8db85c1258f7dc90d5dece4f6d9b9cfc3 /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/R$color.class
+1376272998000 2041 ecdf365dafef42453f0946087991e3c6762ddb45 /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/util/SystemUiHider.class
+1376322668000 472 056d187dc867a1291a4700caa81e54abc81a1c94 /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/R$string.class
+1376272998000 299 6ff43ea385c06a691ce672b265d7be5c4bb47822 /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/util/SystemUiHider$OnVisibilityChangeListener.class
+1376334474000 1359 80143c1f6bdba215f1d89c8676d37a1dbeea86cd /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/FullscreenActivity$2.class
+1376272998000 633 a34abc4018ff6f33f65b3bcd989a60ae871727ef /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/R$styleable.class
+1376272998000 2009 ecc274424dd9dac749f1dcbd985e2da0a9e90950 /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/util/SystemUiHiderHoneycomb$1.class
+1376334474000 3031 9e59652b28c87d37f5898cc850f3c4d13fbefc6a /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/FullscreenActivity.class
+1376272998000 1464 d67cb46a40715eabd82a395848da928de83d4270 /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/util/SystemUiHiderBase.class
+1376272998000 593 62ee2f82f9ace543b204d52cc8547d485205e4e4 /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/R$style.class
+1376272998000 347 e12118ec817e726bf73ceca9c0d33cb87b3c7315 /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/BuildConfig.class
+1376272998000 412 4b656c5dc87c24dd637e111eece9de932c4ccfaa /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/R$layout.class
+1376272998000 445 5c159aa3a8622dcac582e7ccf26f21bf2a1c5db0 /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/R$attr.class
+1376334474000 1853 f273b81dd862f784f84511ececb376ecd8adbace /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/FullscreenActivity$1.class
+1376322668000 484 d8058cf2092ed66635d6dae22740f0df98a7fb67 /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/R$id.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1376272998000 643 bcc4b57b402f04312943b3ebe3877fbe3f2abc8b /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/util/SystemUiHider$1.class
+1376334474000 851 55bfd8ae7727ff71ebae15870a4256a6cb0223ab /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/FullscreenActivity$3.class
+1376334474000 822 64655b1f4eae93caafefdfd25f93c5ce3fde7fc4 /Users/Manny/AndroidDev/playground/LoudBarProject/LoudBar/build/classes/debug/com/mcastro/loudbar/FullscreenActivity$4.class
